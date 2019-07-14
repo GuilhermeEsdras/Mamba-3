@@ -41,7 +41,7 @@
   - [Objetivo](#Objetivo)
   - [Material Utilizado](#Material-Utilizado)
     - [Sistema Operacional](#Sistema-Operacional)
-    - [Compilador](#Compilador)
+    - [Interpretador](#Interpretador)
     - [IDE](#IDE)
   - [Programando em Python 3](#Programando-em-Python-3)
     - [Pré-Requisitos](#Pr%C3%A9-Requisitos)
@@ -63,8 +63,8 @@ Este repositório foi criado com a finalidade de guardar meus projetos, ideias, 
 Estes são os materiais usados por mim para desenvolver e rodar meus programas em Python 3.
 ### Sistema Operacional
 - [Windows 10](https://www.microsoft.com/pt-br/windows/)
-### Compilador
-- [Anaconda3](#Links-%C3%9Ateis)
+### Interpretador
+- [Anaconda 3](#Links-%C3%9Ateis)
 ### IDE
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [PyCharm]()

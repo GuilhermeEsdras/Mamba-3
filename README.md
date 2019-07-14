@@ -4,7 +4,7 @@
 
 <!-- Badges -->
 <p align="center">
-    <img src="https://img.shields.io/badge/Linguagem-Python%203-green.svg?style=flat&colorB=26ea20" alt="this is purple">
+    <img src="https://img.shields.io/badge/Linguagem-Python%203-green.svg?style=flat&colorB=26ea20" alt="Linguagem Python 3">
 </p>
 <!-- -->
 
@@ -25,6 +25,8 @@
     Bem-vindo ao meu repositório de <strong>Python 3</strong>!
     <br/>
     <a href="https://docs.python.org/3/" target="_blank"><strong>Ver documentação da linguagem »</strong></a>
+    <br/>
+    <a href="https://pt.wikipedia.org/wiki/Python" target="_blank"><strong>Ver página no Wikipedia »</strong></a>
     <br/><br/>
     <a href="Exercícios Resolvidos">Exercícios Resolvidos</a>
     ·
@@ -67,6 +69,9 @@ Estes são os materiais usados por mim para desenvolver e rodar meus programas e
 - [Anaconda 3](#Links-%C3%9Ateis)
 ### IDE's
 - [Visual Studio Code](https://code.visualstudio.com/)
+  - Com a(s) seguinte(s) extensão(ões): <br/>
+    • [Python](https://github.com/Microsoft/vscode-python) <br/>
+    • [Python Preview](https://github.com/dongli0x00/python-preview)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 <!-- -->
 

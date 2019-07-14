@@ -42,7 +42,7 @@
   - [Material Utilizado](#Material-Utilizado)
     - [Sistema Operacional](#Sistema-Operacional)
     - [Interpretador](#Interpretador)
-    - [IDE](#IDE)
+    - [IDE's](#IDEs)
   - [Programando em Python 3](#Programando-em-Python-3)
     - [Pré-Requisitos](#Pr%C3%A9-Requisitos)
     - [Executando .py pelo CMD](#Executando-py-pelo-CMD)
@@ -65,7 +65,7 @@ Estes são os materiais usados por mim para desenvolver e rodar meus programas e
 - [Windows 10](https://www.microsoft.com/pt-br/windows/)
 ### Interpretador
 - [Anaconda 3](#Links-%C3%9Ateis)
-### IDE
+### IDE's
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 <!-- -->

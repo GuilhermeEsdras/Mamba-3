@@ -89,7 +89,7 @@ Criando e executando um programa simples em Python 3 pelo CMD
 
 2. Após certificar-se de ter instalado o Python, copiar o endereço da pasta da versão mais recente do mesmo. Geralmente localiza-se em:
   `C:\Users\Usuario\AppData\Local\Programs\Python\Python37-32"`
-     - Caso tenha instalado o Anaconda3, copiar os seguintes diretórios:
+     - Caso tenha instalado o Anaconda3, copiar os seguintes diretórios: <br/>
      `C:\Users\Usuario\Anaconda3` <br/>
      `C:\Users\Usuario\Anaconda3\Scripts`
 
